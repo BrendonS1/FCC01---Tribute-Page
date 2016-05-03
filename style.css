@@ -1,5 +1,45 @@
 
-.image-container { width: auto;
-				height: 20%;
+body {background-color: #898686;}
+
+.image-header {margin-top:-55px;
+				margin-bottom:-20px;
+				height:auto;
+				width:100%;
 				}
-				
+
+.shapeshifter {font-family: 'Source Sans Pro', sans-serif;
+				font-weight:700;
+				color:white;
+				letter-spacing:2px;
+				font-size: 8vw;
+				position:absolute;
+				top:-5%;
+				left:7.5%;
+				}
+
+.aeotearoa {font-family: 'Source Sans Pro', sans-serif;
+				font-weight:700;
+				color:white;
+				letter-spacing:2px;
+				font-size: 4vw;
+				position:absolute;
+				bottom:0%;
+				left:8vw;}
+
+.toptext-container {
+				margin-top:30px;
+				margin-bottom:-10px;
+				font-family: 'Source Sans Pro', sans-serif;
+				font-weight:300;
+				color:black;
+				font-size:17px;
+				background-color: white;
+}
+
+.colwrap {		overflow: hidden;}
+
+.album-image {	height:auto;
+				width:10vw;}
+
+.tracklist { 	font-style: italic;
+				color:grey; }
