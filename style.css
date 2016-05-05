@@ -36,10 +36,9 @@ body {background-color: #898686;}
 				background-color: white;
 }
 
-.colwrap {		overflow: hidden;}
-
 .album-image {	height:auto;
 				width:10vw;}
 
 .tracklist { 	font-style: italic;
 				color:grey; }
+
